@@ -1,8 +1,8 @@
 
 # Cybersecurity Learning Roadmap
 
-## How to support this Proyect?
-"Your support is vital to continue with our work, If you wish contribute with it, you can do it so through PayPal. Thanks you for you generosity!
+## How to Support This Proyect?
+"Your support is vital to continue with our work, If you wish contribute with it, you can do it so through PayPal. Thanks you for your generosity!
 https://www.paypal.com/paypalme/danilomdza"
 
 ## Overview
