@@ -1,3 +1,3 @@
 
-# Linux Customizatino
+# Linux Customization
 ## LightDM (Display Manager)
