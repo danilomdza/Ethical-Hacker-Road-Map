@@ -56,7 +56,3 @@ Feel free to contribute to this roadmap by suggesting new topics, resources, or 
 
 ## License
 This project is licensed under the MIT License. 
-
----
-
-Este README te da un marco claro para tu proyecto y resalta la importancia de cada tema, especialmente en la fase de Junior. Si necesitas más detalles o quieres ajustar algo, estaré encantado de ayudarte.
