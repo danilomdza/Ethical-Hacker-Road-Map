@@ -1,6 +1,10 @@
 
 # Cybersecurity Learning Roadmap
 
+## How to support this Proyect?
+"Your support is vital to continue with our work, If you wish contribute with it, you can do it so through PayPal. Thanks you for you generosity!
+https://www.paypal.com/paypalme/danilomdza"
+
 ## Overview
 This project is a comprehensive learning roadmap for anyone interested in pursuing a career in cybersecurity, including security informatics, ethical hacking, and related fields. The roadmap is designed to guide learners from a junior level to more advanced stages, covering essential topics and skills needed to excel in the field.
 
